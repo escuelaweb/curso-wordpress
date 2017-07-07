@@ -27,6 +27,7 @@ Repositorio para el curso de Wordpress básico
 13. Booking System, para generar un calendario de reservaciones en wordpress.
 14. Home Page Control, para modificar el orden de elementos en el landing de la tienda.
 15. Jetpack, plugin para extender las funciones y vincular a wordpress.com .
+16. Advance-wp-reset, plugin para resetear wordpress a su estado original.
 
 #### Autor: Giovanny Ciriaco @giovannyciriaco
 #### Licencia: MIT License
